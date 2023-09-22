@@ -11,11 +11,7 @@
     - <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="spring" width="15" height="15" margin-right="3px"/> Docker / Kubernetes
     - <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="spring" width="15" height="15" margin-right="3px"/> Node.js -->
 - :speech_balloon: How to reach me **kessi@koders.cl**
-- :link: Connect with me: <a href="https://linkedin.com/in/fkessib" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Dhamary08/Email-Sign/master/linkedin-in.png" alt="Jaime%20Reyes" height="30" width="25"/></a>
-- I’m currently working on:
-    - :earth_americas: I'm Co-Founder at ReCoders. <a href="https://www.recoders.cl" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Kessillox/firma/master/logo-transparente.png" height="30" width="30"></a>
-    - :convenience_store: I'm Co-Founder and CEOBoss at Koders Ltda.  <a href="https://www.koders.cl" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Dhamary08/Email-Sign/master/koders-white.png" height="30" width="70"></a> 
-
+- :link: Connect with me: <a href="https://www.linkedin.com/in/fmolinavgeo/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Dhamary08/Email-Sign/master/linkedin-in.png" alt="Jaime%20Reyes" height="30" width="25"/></a>
 
 
 <h3 align="left">Languages and Tools :bowtie::</h3>
