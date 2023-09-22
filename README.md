@@ -10,7 +10,6 @@
     - <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="15" height="15" margin-right="3px"/> Microservices with Spring Boot
     - <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="spring" width="15" height="15" margin-right="3px"/> Docker / Kubernetes
     - <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="spring" width="15" height="15" margin-right="3px"/> Node.js -->
-- :speech_balloon: How to reach me **kessi@koders.cl**
 - :link: Connect with me: <a href="https://www.linkedin.com/in/fmolinavgeo/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Dhamary08/Email-Sign/master/linkedin-in.png" alt="Jaime%20Reyes" height="30" width="25"/></a>
 
 
