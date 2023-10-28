@@ -12,11 +12,14 @@
 <div style="display: flex; align-items: center;">
   <a href="#" target="_blank"><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="50" height="40" style="margin-right: 3px;" /></a>
   <a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" style="margin-right: 3px;" /></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40" style="margin-right: 3px;" />
-  </a><a href="https://www.w3schools.com/html/" target="_blank"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40" style="margin-right: 3px;" />
-  </a><a href="https://www.w3schools.com/css/" target="_blank"><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-128.png" alt="css3" width="40" height="40" style="margin-right: 3px;" />
-  </a><a href="https://www.mysql.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="55" height="40" style="margin-right: 3px;" />
-  </a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40" style="margin-right: 3px;" /></a>
+  <a href="https://www.w3schools.com/html/" target="_blank"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40" style="margin-right: 3px;" /></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-128.png" alt="css3" width="40" height="40" style="margin-right: 3px;" /></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="55" height="40" style="margin-right: 3px;" /></a>
+  <a href="https://www.esri.cl/es-cl/inicio" target="_blank"><img src="https://seeklogo.com/images/E/esri-logo-219B143C69-seeklogo.com.png" alt="Arcgis" width="40" height="40" style="margin-right: 3px;" /></a>
+  <a href="https://www.esri.com/es-es/arcgis/products/arcgis-pro/overview" target="_blank"><img src="https://www.esri.es/content/dam/distributor-share/esri-es/common/product-logos/ArcGIS-Pro.png" alt="ArcgisPRO" width="40" height="40" style="margin-right: 3px;" /></a>
+  <a href="https://www.qgis.org/es/site/" target="_blank"><img src="https://www.vectorlogo.zone/logos/qgis/qgis-icon.svg" alt="QGIS" width="40" height="40" style="margin-right: 3px;" /></a>
+  <a href="https://www.google.es/intl/es/earth/index.html" target="_blank"><img src="https://brandeps.com/logo-download/G/Google-Earth-logo-vector-01.svg" alt="GoogleEarth" width="40" height="40" style="margin-right: 3px;" /></a>
 </div>
 
 </p>
