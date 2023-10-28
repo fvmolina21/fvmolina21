@@ -27,8 +27,6 @@
                 src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql"
                 width="55" height="40" margin-right="3px"/> </a> </a> <a href="https://www.oracle.com/" target="_blank"> <img
                 src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" alt="oracle"
-                width="40" height="40" margin-right="3px"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img
-                src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"
                 alt="postgresql" width="50" height="40" margin-right="3px"/> </a> <!--<a href="https://www.python.org" target="_blank"> <img
                 src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python"
                 width="50" height="40" margin-right="3px"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img
