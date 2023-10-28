@@ -1,14 +1,21 @@
 <h1 align="center">Hi :v:, I am Francisco Molina Villagrán ⚓ </h1>
 <h3 align="center">I am a Geographer, from Chile </h3>
+<h3 align="center">Geographer with a minor in Regional Urban Studies, graduated from the Pontifical Catholic University of Chile in 2017, I have a certificate in applied geomatics. I have 6 years of experience in employing geographic information systems in transportation, water resources, and territorial analysis, multi-criteria methodology, georeferenced information, database editing, cartography, cadastral work, and the development and automation of geoprocessing tasks using Python. </h3>
+
+<h3 align="left">Contact me :</h3>
+<a href="mailto:fvmolina@uc.cl" target="_blank">
+  <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Correo Electrónico" height="30" width="25"/>
+</a>
 
 
-<a href="https://www.linkedin.com/in/fmolinavgeo/" target="_blank">
+<h3 align="left">Connect with me :</h3>
+<a href="https://www.linkedin.com/in/fmolinavgeo" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/Dhamary08/Email-Sign/master/linkedin-in.png" alt="Francisco Molina Villagran" height="30" width="25"/>
 </a>
 
 
 
-<h3 align="left">Languages and Tools :bowtie::</h3>
+<h3 align="left">Languages and Tools:</h3>
 <div style="display: flex; align-items: center;">
   <a href="#" target="_blank"><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="50" height="40" style="margin-right: 3px;" /></a>
   <a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" style="margin-right: 3px;" /></a>
