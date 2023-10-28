@@ -3,7 +3,7 @@
 
 
 <a href="https://www.linkedin.com/in/fmolinavgeo/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/Dhamary08/Email-Sign/master/linkedin-in.png" alt="Jaime Reyes" height="30" width="25"/>
+  <img align="center" src="https://raw.githubusercontent.com/Dhamary08/Email-Sign/master/linkedin-in.png" alt="Francisco Molina Villagran" height="30" width="25"/>
 </a>
 
 
