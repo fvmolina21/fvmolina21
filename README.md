@@ -1,16 +1,11 @@
 <h1 align="center">Hi :v:, I am Francisco Molina Villagrán ⚓ </h1>
-<h3 align="center">I am a Web Developer, from Chile </h3>
-<h4 align="center">I'm :balance_scale: and 🏇 </h4>
+<h3 align="center">I am a Geographer, from Chile </h3>
 
-### About Me:
 
-- ⌨️ Geógrafo
-- 🥋 Tenis
-<!-- - I'm currently learning more about:
-    - <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="15" height="15" margin-right="3px"/> Microservices with Spring Boot
-    - <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="spring" width="15" height="15" margin-right="3px"/> Docker / Kubernetes
-    - <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="spring" width="15" height="15" margin-right="3px"/> Node.js -->
-- :link: Connect with me: <a href="https://www.linkedin.com/in/fmolinavgeo/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Dhamary08/Email-Sign/master/linkedin-in.png" alt="Jaime%20Reyes" height="30" width="25"/></a>
+<a href="https://www.linkedin.com/in/fmolinavgeo/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/Dhamary08/Email-Sign/master/linkedin-in.png" alt="Jaime Reyes" height="30" width="25"/>
+</a>
+
 
 
 <h3 align="left">Languages and Tools :bowtie::</h3>
