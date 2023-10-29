@@ -1,6 +1,6 @@
 <h1 align="center">Hi :v:, I am Francisco Molina Villagrán ⚓ </h1>
 <h3 align="center">I am a Geographer, from Chile </h3>
-<h3 align="center">Geographer with a minor in Regional Urban Studies, graduated from the Pontifical Catholic University of Chile in 2017, I have a certificate in applied geomatics. I have 6 years of experience in employing geographic information systems in transportation, water resources, and territorial analysis, multi-criteria methodology, georeferenced information, database editing, cartography, cadastral work, and the development and automation of geoprocessing tasks using Python. Furthermore, I have expertise in Java, Spring, Spring Boot, and SQL</h3>
+<h3 align="center">Geographer with a minor in Regional Urban Studies, graduated from the Pontifical Catholic University of Chile in 2017, I have a certificate in applied geomatics. I have 6 years of experience in employing geographic information systems in transportation, water resources, and territorial analysis, multi-criteria methodology, georeferenced information, database editing, cartography, cadastral work, and the development and automation of geoprocessing tasks using Python. Furthermore, I have expertise in Java, Spring, Spring Boot, and SQL.</h3>
 
 <h3 align="left">Contact me :</h3>
 <a href="mailto:fvmolina@uc.cl" target="_blank">
